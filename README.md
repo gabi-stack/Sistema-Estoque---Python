@@ -6,6 +6,8 @@ Sistema de gerenciamento de estoque desenvolvido em Python, com interface gráfi
 
 - Instale Python na sua máquina;
 - Instale a biblioteca customtkinter;
+- Instale o VSCODE
+- Instale as extensões Python e Sqlite viewer
 
 # 📋Pré-requisitos do sistema:
 

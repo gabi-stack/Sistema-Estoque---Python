@@ -9,21 +9,21 @@ Sistema de gerenciamento de estoque desenvolvido em Python, com interface gráfi
 
 # 📋Pré-requisitos do sistema:
 
-> Cadastro, Edição e Exclusão de Produtos
-> Listagem de Produtos
+- Cadastro, Edição e Exclusão de Produtos
+- Listagem de Produtos
 
 ## 🛠️Tecnologias utilizadas:
 
-> Visual Studio Code
-> Python
-> SQLite
-> Customtkinter
+- Visual Studio Code
+- Python
+- SQLite
+- Customtkinter
 
 ## 👾Versões:
 
-> Python 3.13.2
-> SQLite 24.3.1
-> Customtkinter 24.3.1
+- Python 3.13.2
+- SQLite 24.3.1
+- Customtkinter 24.3.1
 
 ## ⌨️Autores:
 

@@ -1,4 +1,4 @@
-# Sistema de Estoque - PYTHON
+# STOCKLY
 
 Sistema de gerenciamento de estoque desenvolvido em Python, com interface gráfica para desktop e integração ao banco de dados.
 
